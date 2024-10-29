@@ -1,0 +1,8 @@
+name: "bundle_la"
+displayName: "Latin Translation"
+author: hydrophobis
+description: "Adds a latin translation to the game"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
